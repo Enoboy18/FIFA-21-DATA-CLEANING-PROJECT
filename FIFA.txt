@@ -1,14 +1,14 @@
 FIFA 21 DATASET
 
-Task: Given a very dirty dataset containing data on all available players in the FIFA 21 game my task was to simply clean the data, and  to do this utilized only Microsoft Excel and took the following steps to mention a few
+Task: Given a very dirty dataset containing data on all available players in the FIFA 21 game my task was to simply clean the data, and to do this utilized only Microsoft Excel and took the following steps to mention a few
 
-1. Loaded the data with Power Query to automaticcaly clean all the unwanted characters, text and symbols
+1. Loaded the data with Power Query to automatically clean all the unwanted characters, text and symbols
 2. Coverted Age, Height, Weight, Player Value, Wage and Release Clause columns to Numerical as well as other columns to their relevant data type for analysis 
 3. Properly formatted all the currency columns to € for analysis
 4. Used find and replace to remove from W/F, S/M and I/R columns 
-Team and Contract broken down into Team, Contract Start and Contract Finish 
+5. Team and Contract broken down into Team, Contract Start and Contract Finish 
 
-For the Summarized Visulizations it included
+The Summarized Visualizations included:
 1. Total Value of Players
 2. Total Number of Players
 3. Average Age 
