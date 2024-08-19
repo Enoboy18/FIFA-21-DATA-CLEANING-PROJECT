@@ -16,4 +16,6 @@ For the Summarized Visulizations it included
 5. Highest Payed Player
 6. Most Valued Player
 7. Highest Release Clause
+8. Summarized visualizations of Players Nationality and their given age-distribution
+9. Summarized visualizations of Players and their Teams
 
