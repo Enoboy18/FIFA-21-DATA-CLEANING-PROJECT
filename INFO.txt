@@ -11,8 +11,8 @@ Task: Given a very dirty dataset containing data on all available players in the
 The Summarized Visualizations included:
 1. Total Value of Players
 2. Total Number of Players
-3. Average Age 
-4. Total Age
+3. Average Wage 
+4. Average Age
 5. Highest Payed Player
 6. Most Valued Player
 7. Highest Release Clause
